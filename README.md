@@ -1,2 +1,2 @@
-# belajarFStar
-belajar Proof-orientated programming dalam bahasa indonesia. 
+# belajarLean4
+belajar Lean 4 dalam bahasa indonesia. 
